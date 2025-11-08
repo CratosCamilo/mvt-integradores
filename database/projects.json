@@ -1,0 +1,701 @@
+[
+  {
+    "id": 1,
+    "slug": "vizla",
+    "nombre": "VIZLA",
+    "integrantes": [
+      "Daniel Felipe Aguilar Latorre",
+      "Pablo Antonio Bravo Vergara",
+      "Santiago Gomez Cadena",
+      "David Ricardo Hernandez Carranza",
+      "Carlos Fernando Ortiz Vargas",
+      "Andres Felipe Pico Garcia"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "8:40",
+    "resumen": "Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras,…",
+    "imagen_logo": "/img/logos/vizla_logo.png",
+    "imagen_portada": "/img/portadas/vizla.jpg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 8:40. Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras, y mejora la conectividad y la experiencia de juego al centralizar todo en un mismo lugar. Materia: PROYECTO INTEGRADOR II. Docente: LENIN JAVIER SERRANO GIL.",
+    "despliegue": null,
+    "favoritos": [
+      {
+        "docente": "LENIN JAVIER SERRANO GIL",
+        "comentario": "Comentario destacado prueba."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "eldar",
+    "nombre": "ELDAR",
+    "integrantes": [
+      "Pedro Mateo Espinel Dominguez",
+      "Daniel Felipe Gutierrez Mejia",
+      "Diego Alejandro Moreno Velandia",
+      "Lenny Alejandro Rincon Ramirez",
+      "Brenda Luz Salcedo Hernandez",
+      "Diego Alejandro Suarez Mendoza"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "9:10",
+    "resumen": "Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras,…",
+    "imagen_logo": "/img/logos/eldar_logo.jpeg",
+    "imagen_portada": "/img/portadas/eldar.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 9:10. Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras, y mejora la conectividad y la experiencia de juego al centralizar todo en un mismo lugar. Materia: PROYECTO INTEGRADOR II. Docente: LENIN JAVIER SERRANO GIL.",
+    "despliegue": null
+  },
+  {
+    "id": 3,
+    "slug": "kryze",
+    "nombre": "KRYZE",
+    "integrantes": [
+      "Ruben Santiago Blandon Ardila",
+      "Juan Pablo Carvajal Giraldo",
+      "Jesus David Falon Palmezano",
+      "Juan David Fuentes Patiño",
+      "Jose Daniel Leguizamo Vasquez",
+      "Camilo Andres Rodriguez Forero"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "10:00",
+    "resumen": "Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras,…",
+    "imagen_logo": "/img/logos/kryze_logo.jpeg",
+    "imagen_portada": "/img/portadas/kryze.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 10:00. Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras, y mejora la conectividad y la experiencia de juego al centralizar todo en un mismo lugar. Materia: PROYECTO INTEGRADOR II. Docente: LENIN JAVIER SERRANO GIL.",
+    "despliegue": null
+  },
+  {
+    "id": 4,
+    "slug": "rook",
+    "nombre": "ROOK",
+    "integrantes": [
+      "Juan Eduardo Benitez Pajaro",
+      "Santiago Castellanos Rincon",
+      "Luis Alfredo Fuentes Romero",
+      "Nicol Dayanna Lizarazo Ortiz Karen",
+      "William Oswaldo Sanabria Gutierrez",
+      "Gian Kieffer Toledo de la Cruz"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "10:30",
+    "resumen": "Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras,…",
+    "imagen_logo": "/img/logos/rook_logo.png",
+    "imagen_portada": "/img/portadas/rook.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 10:30. Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras, y mejora la conectividad y la experiencia de juego al centralizar todo en un mismo lugar. Materia: PROYECTO INTEGRADOR II. Docente: LENIN JAVIER SERRANO GIL.",
+    "despliegue": null
+  },
+  {
+    "id": 5,
+    "slug": "wren",
+    "nombre": "WREN",
+    "integrantes": [
+      "Julian Alberto Espitia Bueno",
+      "Jeison Steven Florez Julio",
+      "Raul Santiago Hallado Abaunza",
+      "Sergio Eliecer Nuñez Rincon",
+      "Johan David Rodriguez Castro",
+      "Joseph Camilo Urquijo Bautista"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "11:00",
+    "resumen": "Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras,…",
+    "imagen_logo": "/img/logos/wren_logo.png",
+    "imagen_portada": "/img/portadas/wren.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 11:00. Plataforma web para THE NEXUS BATTLES IV que permite organizar y vivir misiones, torneos y enfrentamientos entre jugadores o contra la máquina. Integra un sistema de inventario para administrar ítems, armas y armaduras, y mejora la conectividad y la experiencia de juego al centralizar todo en un mismo lugar. Materia: PROYECTO INTEGRADOR II. Docente: LENIN JAVIER SERRANO GIL.",
+    "despliegue": null
+  },
+  {
+    "id": 6,
+    "slug": "equipoarryn",
+    "nombre": "EQUIPO ARRYN",
+    "integrantes": [
+      "Juan Camilo Gómez Manotas",
+      "Juan David Monsalve Niño",
+      "Nicolas Rodríguez Acevedo",
+      "Sofia Santis Silva",
+      "Tomas Uribe Sanchez"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "14:00",
+    "resumen": "Proyecto ARRYN: aplicación web de comparación de precios basada en web scraping, desplegada en AWS con base de datos MongoDB. Desarrollada bajo SCRUM (SM rotativo y seguimiento en JIRA), con dominio de NAME.com y GitHub…",
+    "imagen_logo": "/img/logos/arryn_logo.png",
+    "imagen_portada": "/img/portadas/equipoarryn.jpg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 14:00. Proyecto ARRYN: aplicación web de comparación de precios basada en web scraping, desplegada en AWS con base de datos MongoDB. Desarrollada bajo SCRUM (SM rotativo y seguimiento en JIRA), con dominio de NAME.com y GitHub Secrets para credenciales. La solución funcionó correctamente al extraer datos de grandes comercios; el equipo reconoce y gestiona las implicaciones legales del scraping. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR.",
+    "despliegue": null
+  },
+  {
+    "id": 7,
+    "slug": "equipobaratheon",
+    "nombre": "EQUIPO BARATHEON",
+    "integrantes": [
+      "Fernando Cancelado Figueroa",
+      "Zarhet Valentina Fuentes Bottia",
+      "Nicolas García Mejía",
+      "Jan Dante Leal Arenas",
+      "Bryan Gonzalo Lizcano Duran"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "14:30",
+    "resumen": "Sitio web de eventos y actividades culturales en colombia (PROYECTO INTEGRADOR II)",
+    "despliegue": "https://www.quehaypahacers.com/",
+    "imagen_logo": "/img/logos/equipobaratheon_logo.png",
+    "imagen_portada": "/img/portadas/equipobaratheon.jpg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 14:30. Sitio web de eventos y actividades culturales en colombia. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR."
+  },
+  {
+    "id": 8,
+    "slug": "equipolannister",
+    "nombre": "EQUIPO LANNISTER",
+    "integrantes": [
+      "Samuel Arango Diaz",
+      "Juan Manuel Guerrero Rueda",
+      "Wilson Andrés Moreno Velandia",
+      "Néstor Stiven Pabón Flórez",
+      "Sergio Alejandro Sanabria Moreno"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "15:00",
+    "resumen": "Sitio web que recolecta noticias, centralizándolas en una sola página con filtros de navegación y chatbot integrado.",
+    "despliegue": "https://lannister-news.com/",
+    "imagen_logo": "/img/logos/equipolannister_logo.png",
+    "imagen_portada": "/img/portadas/lennister.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 15:00. Sitio web que recolecta noticias, centralizándolas en una sola página con filtros de navegación y chatbot integrado. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR.",
+    "favoritos": [
+      {
+        "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+        "audio": "/audio/favorito-danith.mp3"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "equipostark",
+    "nombre": "EQUIPO STARK",
+    "integrantes": [
+      "Juan Sebastián Granados Jaimes",
+      "Juan Carlos Niño Osorio",
+      "Leyder Steven Ortiz Jaimes",
+      "Jorge Luis Osorio Silva",
+      "Carlos Alberto Quintero Arias"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "15:30",
+    "resumen": "StarkAdvisor te brinda las herramientas más avanzadas para análisis financiero, noticias del mercado en tiempo real y asesoría inteligente para tus inversiones.",
+    "despliegue": "https://d3iqcabelr1yf0.cloudfront.net/",
+    "imagen_logo": "/img/logos/equipostark_logo.png",
+    "imagen_portada": "/img/portadas/equipostark.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 15:30. StarkAdvisor te brinda las herramientas más avanzadas para análisis financiero, noticias del mercado en tiempo real y asesoría inteligente para tus inversiones. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR."
+  },
+  {
+    "id": 10,
+    "slug": "equipotargeryen",
+    "nombre": "EQUIPO TARGERYEN",
+    "integrantes": [
+      "Juan Andres Contreras Hernandez",
+      "Karol Nicol Dayanna Lizarazo Ortiz",
+      "Raul Ferney Lozano Navarro",
+      "Maria Angelica Parra Grazt",
+      "Jerson Arley Porras Lozano"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "16:20",
+    "resumen": "Plataforma inteligente que utiliza IA y web scraping para generar rutas de aprendizaje personalizadas, automatizando la curación de contenido educativo de múltiples plataformas.",
+    "despliegue": "https://www.learn-ia.app/",
+    "imagen_logo": "/img/logos/equipotargeryen_logo.png",
+    "imagen_portada": "/img/portadas/targeryen.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 16:20. Plataforma inteligente que utiliza IA y web scraping para generar rutas de aprendizaje personalizadas, automatizando la curación de contenido educativo de múltiples plataformas. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR."
+  },
+  {
+    "id": 11,
+    "slug": "equipotyrell",
+    "nombre": "EQUIPO TYRELL",
+    "integrantes": [
+      "Juan Andres Contreras Hernandez",
+      "Karol Nicol Dayanna Lizarazo Ortiz",
+      "Raul Ferney Lozano Navarro",
+      "Maria Angelica Parra Grazt",
+      "Jerson Arley Porras Lozano"
+    ],
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANITH PATRICIA SOLORZANO ESCOBAR",
+    "fecha": "10/28/2025",
+    "hora_inicio": "16:50",
+    "resumen": "Sitio web de scrapping / crawling de productos tecnológicos reunidos en un chatbot inteligente.",
+    "imagen_logo": "/img/logos/tyrell_logo.png",
+    "imagen_portada": "/img/portadas/tyrell.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/28/2025 a las 16:50. Sitio web de scrapping / crawling de productos tecnológicos reunidos en un chatbot inteligente. Materia: PROYECTO INTEGRADOR II. Docente: DANITH PATRICIA SOLORZANO ESCOBAR.",
+    "despliegue": null
+  },
+  {
+    "id": 12,
+    "slug": "urbanshoes",
+    "nombre": "URBAN SHOES",
+    "integrantes": [
+      "Figueroa Arguello Carlos David",
+      "Rodriguez Castro Gabriel Matias",
+      "Gualdron Jaimes Jhostyn Santiago",
+      "González Figueroa Jorge Andrés",
+      "Medina Meneses Juan Pablo",
+      "Morales Palencia Luis Eduardo"
+    ],
+    "materia": "INGENIERÍA DE SOFTWARE",
+    "docente": "JAVIER ENRIQUE LIZARAZO RUEDA",
+    "fecha": "10/29/2025",
+    "hora_inicio": "9:45",
+    "resumen": "Proyecto URBAN SHOES: sistema web MVC para gestionar inventario y controlar entradas y salidas de productos. Incorpora hashing para resguardar datos, patrón Observador para notificaciones internas y flujo en tiempo real…",
+    "imagen_logo": "/img/logos/urbanshoes_logo.png",
+    "imagen_portada": "/img/portadas/urbanshoes.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 9:45. Proyecto URBAN SHOES: sistema web MVC para gestionar inventario y controlar entradas y salidas de productos. Incorpora hashing para resguardar datos, patrón Observador para notificaciones internas y flujo en tiempo real, y uso de GitHub para control de versiones. Metodología de prototipado con retroalimentación del cliente para iterar y mejorar rápidamente. Materia: INGENIERÍA DE SOFTWARE. Docente: JAVIER ENRIQUE LIZARAZO RUEDA.",
+    "despliegue": null
+  },
+  {
+    "id": 13,
+    "slug": "ranashoes",
+    "nombre": "RANA SHOES",
+    "integrantes": [
+      "Florez Mendoza Andrés Daniel",
+      "Mejia Delgado Angy Natalia",
+      "Chaparro Carvajal Cristian Camilo",
+      "Hoguín Sanchez Daniel Fernando",
+      "Salazar Florez Javier Alexander",
+      "Uribe Santiago Sanabria"
+    ],
+    "materia": "INGENIERÍA DE SOFTWARE",
+    "docente": "JAVIER ENRIQUE LIZARAZO RUEDA",
+    "fecha": "10/29/2025",
+    "hora_inicio": "10:15",
+    "resumen": "Proyecto RANA SHOES: plataforma web para registro, control y trazabilidad de materias primas y procesos productivos. Desarrollada con API REST en Node.js, integra áreas y asegura el flujo de información. Metodología de…",
+    "imagen_logo": "/img/logos/ranashoes_logo.png",
+    "imagen_portada": "/img/portadas/ranashoes.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 10:15. Proyecto RANA SHOES: plataforma web para registro, control y trazabilidad de materias primas y procesos productivos. Desarrollada con API REST en Node.js, integra áreas y asegura el flujo de información. Metodología de prototipado con participación activa del cliente y apoyo de Ingeniería Industrial para definir requerimientos y validar iteraciones. Materia: INGENIERÍA DE SOFTWARE. Docente: JAVIER ENRIQUE LIZARAZO RUEDA.",
+    "despliegue": null
+  },
+  {
+    "id": 14,
+    "slug": "veterinariasos",
+    "nombre": "VETERINARIA SOS",
+    "integrantes": [
+      "Flórez Durán David Eduardo",
+      "Carvajal Barragán David Ricardo",
+      "Mora Patiño José David",
+      "Ordóñez Ferreira Juan David",
+      "Téllez Guisa Juan David",
+      "Arenas Avendaño Juan Pablo",
+      "Duran Libardo Bravo"
+    ],
+    "materia": "INGENIERÍA DE SOFTWARE",
+    "docente": "JAVIER ENRIQUE LIZARAZO RUEDA",
+    "fecha": "10/29/2025",
+    "hora_inicio": "10:45",
+    "resumen": "El proyecto Veterinaria & Spa SOS consiste en el desarrollo de un sistema integral de gestión para clínicas veterinarias, que centraliza la información de clientes, mascotas, inventarios, proveedores, ventas y usuarios…",
+    "imagen_logo": "/img/logos/veterinariasos_logo.jpeg",
+    "imagen_portada": "/img/portadas/veterinariasos.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 10:45. El proyecto Veterinaria & Spa SOS consiste en el desarrollo de un sistema integral de gestión para clínicas veterinarias, que centraliza la información de clientes, mascotas, inventarios, proveedores, ventas y usuarios en una plataforma moderna, segura y fácil de usar. Materia: INGENIERÍA DE SOFTWARE. Docente: JAVIER ENRIQUE LIZARAZO RUEDA.",
+    "despliegue": null
+  },
+  {
+    "id": 15,
+    "slug": "avitech",
+    "nombre": "AVITECH",
+    "integrantes": [
+      "Sanchez Palacio Andres F.",
+      "Pimiento Fonseca Carlos F.",
+      "Granados Isabella Montoya",
+      "Porras Prada Jose O.",
+      "Calderon Melissa Peterson",
+      "Lasso Ramirez Nestor Guillermo N.",
+      "Bravo Vergara Pablo A.",
+      "Gomez Simon Perez"
+    ],
+    "materia": "INGENIERÍA DE SOFTWARE",
+    "docente": "JAVIER ENRIQUE LIZARAZO RUEDA",
+    "fecha": "10/29/2025",
+    "hora_inicio": "11:15",
+    "resumen": "Diseño e implementación de una base de datos y panel de consulta para centralizar y asegurar la información operativa de una granja avícola (gallinas ponedoras y cría). El sistema reemplaza registros manuales/Excel y…",
+    "imagen_logo": "/img/logos/avitech_logo.png",
+    "imagen_portada": "/img/portadas/avitech.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 11:15. Diseño e implementación de una base de datos y panel de consulta para centralizar y asegurar la información operativa de una granja avícola (gallinas ponedoras y cría). El sistema reemplaza registros manuales/Excel y permite registrar, filtrar y consultar entradas/salidas, lotes/galpones, inventario de aves, vacunación y proveedores por fecha y criterio, reduciendo pérdidas de información y mejorando la confiabilidad de los datos.. Materia: INGENIERÍA DE SOFTWARE. Docente: JAVIER ENRIQUE LIZARAZO RUEDA.",
+    "despliegue": null,
+    "favoritos": [
+      {
+        "docente": "JAVIER ENRIQUE LIZARAZO RUEDA",
+        "comentario": "Gran integración de módulos y demo sólida."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "centrodedesarrollodesoftware",
+    "nombre": "Bifrost",
+    "integrantes": [
+      "Andres Felipe Pinzon Camacho",
+      "Erick David Garcia Bernate",
+      "Hansel Santiago Saavedra Martinez",
+      "Miguel Angel Vargas Pardo",
+      "Sergio Ivan Guerra Suarez"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "14:10",
+    "resumen": "Sitio web sobre Gestión de proyectos (PROYECTO INTEGRADOR I)",
+    "imagen_logo": "/img/logos/bifrost.jpeg",
+    "imagen_portada": "/img/portadas/bifrost.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 14:10. Sitio web sobre Gestión de proyectos. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null,
+    "favoritos": [
+      {
+        "docente": "SANDRA PILAR REYES HERNANDEZ",
+        "comentario": "Gran integración de módulos y demo sólida."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "centrodebiotecnologia",
+    "nombre": "Bioconecta",
+    "integrantes": [
+      "Caren Julieth Diaz Calderon",
+      "Ivan Andres Lopez Panesso",
+      "Juan Sebastian Hernandez Remolina",
+      "Karen Lisseth Adarme Gomez",
+      "Miguel Jose Vargas Martinez",
+      "Sebastian Neira Ramirez",
+      "Silvia Juliana Barragan Sanchez"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "14:40",
+    "resumen": "Proyecto BIOCONECTA: desarrollo de una solución para su centro interconectado, trabajado bajo enfoque SCRUM. Presentaron topología global y propia, además de un demo de VoIP y del portal web. El equipo reconoce áreas…",
+    "imagen_logo": "/img/logos/bioconecta_logo.jpeg",
+    "imagen_portada": "/img/portadas/bioconecta.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 14:40. Proyecto BIOCONECTA: desarrollo de una solución para su centro interconectado, trabajado bajo enfoque SCRUM. Presentaron topología global y propia, además de un demo de VoIP y del portal web. El equipo reconoce áreas por mejorar: marco conceptual ausente en la sustentación, burndown mal rotulado con estimaciones altas, diagramas poco legibles y conclusiones débiles. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 18,
+    "slug": "centrodeenergiasrenovables",
+    "nombre": "Ecophos",
+    "integrantes": [
+      "Andersson Joneyder Tapias Fonseca",
+      "Claudia Natalia Suarez Suarez",
+      "Ivan Mateo Gonzalez Angulo",
+      "Johan Sebastian Almeida Rincon",
+      "Leonel David Villamizar Gomez",
+      "Ronald Eduardo Arenales Peña"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "15:10",
+    "resumen": "Iniciativa Ecophos para impulsar ciudades sostenibles: promueve investigación y proyectos de energías renovables, ofrece formación, asesoría y consultoría a estudiantes, empresas y comunidad, y articula a la academia…",
+    "imagen_logo": "/img/logos/ecophos_logo.png",
+    "imagen_portada": "/img/portadas/ecophos.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 15:10. Iniciativa Ecophos para impulsar ciudades sostenibles: promueve investigación y proyectos de energías renovables, ofrece formación, asesoría y consultoría a estudiantes, empresas y comunidad, y articula a la academia con el sector productivo. Centraliza la gestión de proyectos y usuarios bajo estándares seguros, fomenta la colaboración interdisciplinaria (solar, eólica, biomasa e hidráulica) y acerca la energía limpia a sectores vulnerables y no vulnerables. Su meta: ser referente nacional en innovación y transferencia tecnológica en cinco años. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 19,
+    "slug": "centrodeagoindustriainteligente",
+    "nombre": "AgroTechNova",
+    "integrantes": [
+      "Alexer Mauricio Valero Quevedo",
+      "Daniela Quiroga Cubides",
+      "Elian Camilo Lamus Ruiz",
+      "Paula Andrea Rodriguez Cifuentes",
+      "Sergio Andres Espinel Arango"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "16:00",
+    "resumen": "Proyecto AGROTECHNOVA: plataforma web para gestionar y automatizar proyectos agroindustriales, con módulos de recursos para campesinos y articulación con entidades externas. Desarrollado bajo SCRUM, el equipo presentó…",
+    "imagen_logo": "/img/logos/agrotechnova_logo.jpeg",
+    "imagen_portada": "/img/portadas/agrotechnova.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 16:00. Proyecto AGROTECHNOVA: plataforma web para gestionar y automatizar proyectos agroindustriales, con módulos de recursos para campesinos y articulación con entidades externas. Desarrollado bajo SCRUM, el equipo presentó diagramas y evidencias de los servicios implementados según las necesidades de los clientes, buscando mejorar la eficiencia y el impacto en el sector. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 20,
+    "slug": "centroderoboticayautomatizacion",
+    "nombre": "J&C Automation & Robotics",
+    "integrantes": [
+      "Dilan Kaleth Meneses Vega",
+      "Erick Emanuel Tamayo Diaz",
+      "Ivan Felipe Lastre Guerrero",
+      "Keynner Andres Loaiza Avila",
+      "Melany Mejia Niño",
+      "Samuel Castro Ruiz"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "16:30",
+    "resumen": "Proyecto AUTOMATION Y ROBOTICS: solución interna desarrollada con SCRUM para gestionar información de proyectos. Presentó mockups de frontend (Bootstrap), panel de auditoría y una implementación sólida de servicios de…",
+    "imagen_logo": "/img/logos/centroderoboticayautomatizacion_logo.png",
+    "imagen_portada": "/img/portadas/automation.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 16:30. Proyecto AUTOMATION Y ROBOTICS: solución interna desarrollada con SCRUM para gestionar información de proyectos. Presentó mockups de frontend (Bootstrap), panel de auditoría y una implementación sólida de servicios de red con conexión segura. Áreas a mejorar: legibilidad de diagramas y claridad de resultados por sprint. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 21,
+    "slug": "centrodeciberseguridad",
+    "nombre": "CyberIntegrity",
+    "integrantes": [
+      "Andres Santiago Ayala Mantilla",
+      "Jairo Esteban Porras Barajas",
+      "Jose David Soria Rojas",
+      "Juan David Rincon Cediel"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "17:00",
+    "resumen": "Proyecto CyberIntegrity del Centro Interconectado: desarrollo de una solución interna para gestión y control de proyectos, trabajado con SCRUM y enfoque de prototipado. Presentaron story mapping, un video del producto…",
+    "imagen_logo": "/img/logos/ciberintegrity_logo.jpeg",
+    "imagen_portada": "/img/portadas/ciberintegrity.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 17:00. Proyecto CyberIntegrity del Centro Interconectado: desarrollo de una solución interna para gestión y control de proyectos, trabajado con SCRUM y enfoque de prototipado. Presentaron story mapping, un video del producto con sus funciones principales y diagramas explicados de forma clara. El equipo reconoce pendientes para fortalecer el marco teórico y afinar la presentación del enfoque ágil. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 22,
+    "slug": "centrodesolucionessmartcities",
+    "nombre": "CENTRO DE SOLUCIONES SMART CITIES",
+    "integrantes": [
+      "Alex Santiago Ferrucho Cristancho",
+      "Sergio Ismael Contreras Sanchez"
+    ],
+    "materia": "PROYECTO INTEGRADOR I",
+    "docente": "SANDRA PILAR REYES HERNANDEZ",
+    "fecha": "10/29/2025",
+    "hora_inicio": "17:30",
+    "resumen": "Este proyecto no se presentó (PROYECTO INTEGRADOR I)",
+    "imagen_logo": "/img/logos/centrodesolucionessmartcities_logo.png",
+    "imagen_portada": "/img/portadas/centrodesolucionessmartcities.jpg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/29/2025 a las 17:30. Este proyecto no se presentó. Materia: PROYECTO INTEGRADOR I. Docente: SANDRA PILAR REYES HERNANDEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 23,
+    "slug": "electromed",
+    "nombre": "ElectroMed",
+    "integrantes": [
+      "Maria Jose Abello Jimenez",
+      "Ana Gabriela Afanador Carrascal",
+      "Rogger Santiago Jaimes Cala",
+      "Alex Daniel Montañez Valenzuela",
+      "Juan Nicolas Rey Vasquez",
+      "Juan Felipe Tabares Pelaez"
+    ],
+    "materia": "PROYECTO INTEGRADOR III",
+    "docente": "OMAR PINZÓN ARDILA",
+    "fecha": "10/30/2025",
+    "hora_inicio": "10:00",
+    "resumen": "Aplicación móvil para el monitoreo de los electrolitos en pacientes hospitalarios",
+    "imagen_logo": "/img/logos/electromed_logo.png",
+    "imagen_portada": "/img/portadas/electromed.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 10:00. Aplicación móvil para el monitoreo de los electrolitos en pacientes hospitalarios. Materia: PROYECTO INTEGRADOR III. Docente: OMAR PINZÓN ARDILA.",
+    "despliegue": null
+  },
+  {
+    "id": 24,
+    "slug": "blesshealth247",
+    "nombre": "BlessHealth24/7",
+    "integrantes": [
+      "Juliana Chavez King",
+      "Santos Enmanuel Manosalva Aceros",
+      "Sergio David Mesa Puerto",
+      "Juan David Muñoz Rojas",
+      "David Santiago Niño Arenas"
+    ],
+    "materia": "PROYECTO INTEGRADOR III",
+    "docente": "OMAR PINZÓN ARDILA",
+    "fecha": "10/30/2025",
+    "hora_inicio": "10:30",
+    "resumen": "Aplicación móvil multiplataforma para gestionar citas médicas, distribución de medicamentos y organización de historias clínicas mediante agendamiento automatizado, geolocalización y NLP, optimizando tiempos y…",
+    "imagen_logo": "/img/logos/blesshealth247_logo.png",
+    "imagen_portada": "/img/portadas/blesshealth247.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 10:30. Aplicación móvil multiplataforma para gestionar citas médicas, distribución de medicamentos y organización de historias clínicas mediante agendamiento automatizado, geolocalización y NLP, optimizando tiempos y centralizando. Materia: PROYECTO INTEGRADOR III. Docente: OMAR PINZÓN ARDILA.",
+    "despliegue": null
+  },
+  {
+    "id": 25,
+    "slug": "tongi",
+    "nombre": "Tongi",
+    "integrantes": [
+      "Juan David Carvajal Rondon",
+      "Christian Mauricio Rodriguez Curubo",
+      "Jose Daniel Montero Gutierrez",
+      "Juan David Patiño Parra"
+    ],
+    "materia": "PROYECTO INTEGRADOR III",
+    "docente": "OMAR PINZÓN ARDILA",
+    "fecha": "10/30/2025",
+    "hora_inicio": "11:00",
+    "resumen": "Translation Optimized Naturally Guided IA (PROYECTO INTEGRADOR III)",
+    "imagen_logo": "/img/logos/tongi_logo.png",
+    "imagen_portada": "/img/portadas/tongi.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 11:00. Translation Optimized Naturally Guided IA. Materia: PROYECTO INTEGRADOR III. Docente: OMAR PINZÓN ARDILA.",
+    "despliegue": null,
+    "favoritos": [
+      {
+        "docente": "OMAR PINZÓN ARDILA",
+        "comentario": "Cumplieron con cada entrega, respetando todos los tiempos, no tuvieron que sufrir."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "histofy",
+    "nombre": "Histofy",
+    "integrantes": [
+      "Camilo Alfonso Castro Ortiz",
+      "Juan Angel Gomez Bueno",
+      "Antonella Meneses Rojas",
+      "Valentina Tellez Salazar",
+      "Angie Lorena Villarreal Vasquez"
+    ],
+    "materia": "PROYECTO INTEGRADOR III",
+    "docente": "OMAR PINZÓN ARDILA",
+    "fecha": "10/30/2025",
+    "hora_inicio": "14:00",
+    "resumen": "Aplicación móvil basada en inteligencia artificial y procesamiento de lenguaje natural mejorar la clasificación automática y segura de historias clínicas, garantizando la privacidad y protección de los datos",
+    "imagen_logo": "/img/logos/histofy_logo.jpg",
+    "imagen_portada": "/img/portadas/histofy.jpeg",
+    "destacado": true,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 14:00. Aplicación móvil basada en inteligencia artificial y procesamiento de lenguaje natural mejorar la clasificación automática y segura de historias clínicas, garantizando la privacidad y protección de los datos. Materia: PROYECTO INTEGRADOR III. Docente: OMAR PINZÓN ARDILA.",
+    "despliegue": null
+  },
+  {
+    "id": 27,
+    "slug": "meditranslateai",
+    "nombre": "MediTraslateAI",
+    "integrantes": [
+      "Javier Mauricio Granados Moreno",
+      "Edward Daniel Marin Diaz",
+      "Marco Antonio Prada Lugo",
+      "Jimmy Andres Vera Montaña",
+      "Daniel Felipe Galvis Navarro"
+    ],
+    "materia": "PROYECTO INTEGRADOR III",
+    "docente": "OMAR PINZÓN ARDILA",
+    "fecha": "10/30/2025",
+    "hora_inicio": "14:30",
+    "resumen": "Aplicación móvil basada en inteligencia artificial y procesamiento de lenguaje natural facilitar la comprensión de diagnósticos médicos y el seguimiento personalizado de la salud en pacientes",
+    "imagen_logo": "/img/logos/meditranslateai_logo.jpeg",
+    "imagen_portada": "/img/portadas/meditranslateai.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 14:30. Aplicación móvil basada en inteligencia artificial y procesamiento de lenguaje natural facilitar la comprensión de diagnósticos médicos y el seguimiento personalizado de la salud en pacientes. Materia: PROYECTO INTEGRADOR III. Docente: OMAR PINZÓN ARDILA.",
+    "despliegue": null
+  },
+  {
+    "id": 28,
+    "slug": "pixpar",
+    "nombre": "PixPar",
+    "integrantes": [
+      "Ardila Baez Patricia",
+      "Maldonado Rojas Santiago",
+      "Perez Luna Karen Y."
+    ],
+    "materia": "SISTEMAS DISTRIBUIDOS",
+    "docente": "AUDO ALI DÍAZ GÓMEZ",
+    "fecha": "10/30/2025",
+    "hora_inicio": "14:50",
+    "resumen": "Aplicación presentada en la asignatura de Sistemas Distribuidos.",
+    "imagen_logo": "/img/logos/pixpar_logo.png",
+    "imagen_portada": "/img/portadas/pixpar.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 14:50. Trabajo de la asignatura SISTEMAS DISTRIBUIDOS. Materia: SISTEMAS DISTRIBUIDOS. Docente: AUDO ALI DÍAZ GÓMEZ.",
+    "despliegue": null,
+    "favoritos": [
+      {
+        "docente": "AUDO ALI DÍAZ GÓMEZ",
+        "comentario": "Excelente presentación y demo funcional."
+      }
+      ]
+  },
+  {
+    "id": 29,
+    "slug": "distrifile",
+    "nombre": "DistriFile",
+    "integrantes": [
+      "Romero Castro Maria J."
+    ],
+    "materia": "SISTEMAS DISTRIBUIDOS",
+    "docente": "AUDO ALI DÍAZ GÓMEZ",
+    "fecha": "10/30/2025",
+    "hora_inicio": "15:10",
+    "resumen": "Proyecto de la asignatura de Sistemas Distribuidos.",
+    "imagen_logo": "/img/logos/distrifile_logo.png",
+    "imagen_portada": "/img/portadas/distrifile.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 15:10. Trabajo de la asignatura SISTEMAS DISTRIBUIDOS. Materia: SISTEMAS DISTRIBUIDOS. Docente: AUDO ALI DÍAZ GÓMEZ.",
+    "despliegue": null
+  },
+  {
+    "id": 30,
+    "slug": "blessimageplus",
+    "nombre": "Bless Image Plus",
+    "integrantes": [
+      "Chavez King Juliana",
+      "Vega Sabino Fernando J."
+    ],
+    "materia": "SISTEMAS DISTRIBUIDOS",
+    "docente": "AUDO ALI DÍAZ GÓMEZ",
+    "fecha": "10/30/2025",
+    "hora_inicio": "15:30",
+    "resumen": "Proyecto presentado en Sistemas Distribuidos.",
+    "imagen_logo": "/img/logos/blessimageplus_logo.png",
+    "imagen_portada": "/img/portadas/blessimageplus.jpeg",
+    "destacado": false,
+    "descripcion": "Proyecto presentado el 10/30/2025 a las 15:30. Trabajo de la asignatura SISTEMAS DISTRIBUIDOS. Materia: SISTEMAS DISTRIBUIDOS. Docente: AUDO ALI DÍAZ GÓMEZ.",
+    "despliegue": null
+  }
+]

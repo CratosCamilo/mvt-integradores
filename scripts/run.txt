@@ -1,0 +1,5 @@
+npm init -y
+npm i express morgan cors ejs
+npm i -D typescript ts-node ts-node-dev ts-jest @types/node @types/ejs @types/jest jest supertest @types/express
+npx tsc --init
+npm install --save-dev @types/supertest

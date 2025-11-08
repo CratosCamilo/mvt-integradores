@@ -1,0 +1,52 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T08:50:35.822Z"
+    },
+    {
+      "id": 2,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T08:55:23.326Z"
+    },
+    {
+      "id": 3,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T09:00:45.581Z"
+    },
+    {
+      "id": 4,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T09:10:06.282Z"
+    },
+    {
+      "id": 5,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T09:23:07.079Z"
+    },
+    {
+      "id": 6,
+      "projectId": 1,
+      "text": "Comentario E2E",
+      "name": "Tester",
+      "icon": "fox.png",
+      "timeISO": "2025-11-07T18:38:29.071Z"
+    }
+  ]
+}

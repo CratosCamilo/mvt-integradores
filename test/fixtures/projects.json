@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "slug": "histofy",
+    "nombre": "Histofy",
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "LENIN JAVIER SERRANO GIL",
+    "fecha": "10/28/2025",
+    "hora_inicio": "08:40",
+    "resumen": "OCR con Flask y despliegue.",
+    "descripcion": "Proyecto OCR con Flask (pdf2image, pytesseract), UI y demo.",
+    "imagen_logo": "/img/logos/histofy.png",
+    "imagen_portada": "/img/portadas/histofy.png",
+    "integrantes": ["Malory Basanta", "Ken Nelson"],
+    "destacado": true,
+    "favoritos": [
+      { "docente": "LENIN JAVIER SERRANO GIL", "comentario": "Excelente demo y claridad en la expo." }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "vizla",
+    "nombre": "Vizla",
+    "materia": "PROYECTO INTEGRADOR II",
+    "docente": "DANIT CASTELLANOS",
+    "fecha": "10/29/2025",
+    "hora_inicio": "09:20",
+    "resumen": "Plataforma de analítica de proyectos.",
+    "integrantes": ["Daniel Aguilar", "Pablo Bravo"],
+    "destacado": false,
+    "favoritos": []
+  }
+]
